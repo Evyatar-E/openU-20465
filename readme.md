@@ -21,9 +21,9 @@
 
 </br>
 
-| <big>[MMN-12](./MMN-23/I-MMN-23.pdf)</big> |                                                                           |
+| <big>[MMN-23](./MMN-23/I-MMN-23.pdf)</big> |                                                                           |
 | ------------------------------------------ | ------------------------------------------------------------------------- |
-| [Q1](./MMN-23/Question_1)             | [📃](MMN-23/Question_1/Question_1.pdf)                                     |
+| [Q1](./MMN-23/Question%201)             | [📃](MMN-23/Question%201/Question%201.pdf)                                     |
 | [permut](./MMN-23/permut)                 | [Ⓜ️](MMN-23/permut/permut.c)[⏏️](MMN-23/permut/permut)[🔀](MMN-23/permut/IO) |
 
 </br>
