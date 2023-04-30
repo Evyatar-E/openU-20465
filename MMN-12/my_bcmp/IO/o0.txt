@@ -1,0 +1,5 @@
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+!	ERROR: The input isn`t non-negative integer, followed by white char.

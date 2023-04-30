@@ -1,0 +1,21 @@
+
+Please enter natural number:
+⇱	
+What shift needed to its bitwise rotation?
+⇱	
+
+Thanks, got it	✓
+The input received:
+⇲	 Number in base...	
+	DEC-10	99433711	
+	HEX-16	5ED3CEF	
+	OCT-8	573236357	
+	BIN-2	00000101 11101101 00111100 11101111 
+
+Working...
+OK, the 1000983 shift bitwise rotation of 99433711 is:
+⇲	 Number in base...	
+	DEC-10	3665419787	
+	HEX-16	DA79DE0B	
+	OCT-8	33236357013	
+	BIN-2	11011010 01111001 11011110 00001011 

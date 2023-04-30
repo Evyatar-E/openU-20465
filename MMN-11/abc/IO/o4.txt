@@ -1,0 +1,11 @@
+
+▢	Please enter some text	¦›)
+⇱	
+▢	Thanks, got it	✓
+▢	The input received:
+⇲	abcabcdabcabcdabcabcabcabcdabcabcabcabcdabcZabcabcabcdabcabcabcabcdabcZabcabcabc
+▢	Working...
+▢	The short data:
+⇲	a-ca-da-ca-da-ca-ca-ca-da-ca-ca-ca-da-cZa-ca-ca-da-ca-ca-ca-da-cZa-ca-ca-c
+▢	Done			∎
+

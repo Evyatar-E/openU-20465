@@ -1,0 +1,11 @@
+
+▢	Please enter some text	¦›)
+⇱	
+▢	Thanks, got it	✓
+▢	The input received:
+⇲	dabcefLMNOpQrstuv567zyx
+▢	Working...
+▢	The short data:
+⇲	da-cefL-OpQr-v567zyx
+▢	Done			∎
+

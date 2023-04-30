@@ -1,0 +1,11 @@
+
+▢	Please enter some text	¦›)
+⇱	
+▢	Thanks, got it	✓
+▢	The input received:
+⇲	abcdfSEFGEFg2S123Drsvabcdghijlkmonopno
+▢	Working...
+▢	The short data:
+⇲	a-dfSE-GEFg2S123Drsva-dg-jlkmon-pno
+▢	Done			∎
+

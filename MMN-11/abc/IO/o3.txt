@@ -1,0 +1,11 @@
+
+▢	Please enter some text	¦›)
+⇱	
+▢	Thanks, got it	✓
+▢	The input received:
+⇲	cdeffedc87586947ABcD`W@*#3>%!@
+▢	Working...
+▢	The short data:
+⇲	c-ffedc87586947ABcD`W@*#3>%!@
+▢	Done			∎
+

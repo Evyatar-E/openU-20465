@@ -1,0 +1,3 @@
+#	Permutations of "phrase_without_permutations" from "data.in":
+	---	
+*	No permutations found.

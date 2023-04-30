@@ -1,0 +1,6 @@
+#	Permutations of "chair" from "data.in":
+	---	
+	"chair"
+	"arich"
+	"hairc"
+	"arich"

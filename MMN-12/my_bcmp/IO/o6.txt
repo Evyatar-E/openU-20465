@@ -1,0 +1,10 @@
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+	Which index will be the 1st? [0-511]
+>	
+	Which index will be the 2nd?
+>	
+	Please enter some string:
+>	!	ERROR: The <27> length for compering from index <27>, is <2> bytes too long.

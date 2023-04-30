@@ -1,0 +1,148 @@
+>>================== Output together =================>>
+
+
+>>------- ./IO/o0.txt ------->>
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+!	ERROR: The input isn`t non-negative integer, followed by white char.
+
+
+>>------- ./IO/o1.txt ------->>
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+!	ERROR: The input isn`t non-negative integer, followed by white char.
+
+
+>>------- ./IO/o2.txt ------->>
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+	Which index will be the 1st? [0-511]
+>	
+!	ERROR: The input isn`t non-negative integer, followed by white char.
+
+
+>>------- ./IO/o3.txt ------->>
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+	Which index will be the 1st? [0-511]
+>	
+	Which index will be the 2nd?
+>	
+!	ERROR: The input isn`t non-negative integer, followed by white char.
+
+
+>>------- ./IO/o4.txt ------->>
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+	Which index will be the 1st? [0-511]
+>	
+	Which index will be the 2nd?
+>	
+	Please enter some string:
+>	
+!	ERROR: The input failed in fgets.
+
+
+>>------- ./IO/o5.txt ------->>
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+	Which index will be the 1st? [0-511]
+>	
+	Which index will be the 2nd?
+>	
+	Please enter some string:
+>	!	ERROR: One (or more) of the indexes is <1> chars out of the string. [0-2]
+
+
+>>------- ./IO/o6.txt ------->>
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+	Which index will be the 1st? [0-511]
+>	
+	Which index will be the 2nd?
+>	
+	Please enter some string:
+>	!	ERROR: The <27> length for compering from index <27>, is <2> bytes too long.
+
+
+>>------- ./IO/o7.txt ------->>
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+	Which index will be the 1st? [0-511]
+>	
+	Which index will be the 2nd?
+>	
+	Please enter some string:
+>	
+*	OK: Compering in 
+	"abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+	from #0 & #1 for 26 bytes...
+
+X	Negative comparison		#
+
+>>------- ./IO/o8.txt ------->>
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+	Which index will be the 1st? [0-511]
+>	
+	Which index will be the 2nd?
+>	
+	Please enter some string:
+>	
+*	OK: Compering in 
+	"abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+	from #0 & #1 for 0 bytes...
+
+V	Positive comparison		#
+
+>>------- ./IO/o9.txt ------->>
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+	Which index will be the 1st? [0-511]
+>	
+	Which index will be the 2nd?
+>	
+	Please enter some string:
+>	
+*	OK: Compering in 
+	"abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+	from #0 & #26 for 26 bytes...
+
+V	Positive comparison		#
+
+>>------- ./IO/o10.txt ------->>
+#	Hi, lets compare some bytes!
+		Shall we? [-:
+	Please enter the length for compering.[1-512]
+>	
+	Which index will be the 1st? [0-511]
+>	
+	Which index will be the 2nd?
+>	
+	Please enter some string:
+>	
+*	OK: Compering in 
+	"abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+	from #0 & #26 for 26 bytes...
+
+V	Positive comparison		#

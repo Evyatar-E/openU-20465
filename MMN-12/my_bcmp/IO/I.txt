@@ -1,0 +1,62 @@
+<<================== Input together =================<<
+
+
+<<------- ./IO/i0.txt -------<<
+
+
+<<------- ./IO/i1.txt -------<<
+-1
+2
+3
+abcdefghijklmnopqrstuvwxyz
+
+<<------- ./IO/i2.txt -------<<
+0
+2.2
+3
+abcdefghijklmnopqrstuvwxyz
+
+<<------- ./IO/i3.txt -------<<
+1
+2
+3.0
+abcd
+
+<<------- ./IO/i4.txt -------<<
+1
+2
+3
+
+
+<<------- ./IO/i5.txt -------<<
+1
+2
+3
+abc
+
+<<------- ./IO/i6.txt -------<<
+27
+0
+27
+abcdefghijklmnopqrstuvwxyZabcdefghijklmnopqrstuvwxyz
+
+<<------- ./IO/i7.txt -------<<
+26
+0
+1
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz
+
+<<------- ./IO/i8.txt -------<<
+0
+0
+1
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz
+
+<<------- ./IO/i9.txt -------<<
+26
+0
+26
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz
+
+<<------- ./IO/i10.txt -------<<
+ 26  0 26	abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz

@@ -1,0 +1,6 @@
+user@ubuntu:~/Desktop/SHARED/abc$ ./refresh.sh
+gcc -c -ansi -Wall -pedantic abc.c -o abc.o
+gcc -c -ansi -Wall -pedantic abcShort.c -o abcShort.o
+gcc -ansi -Wall -pedantic -g abc.o abcShort.o -o abc
+Done			✓
+user@ubuntu:~/Desktop/SHARED/abc$ 

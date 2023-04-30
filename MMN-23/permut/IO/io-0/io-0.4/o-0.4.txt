@@ -1,0 +1,3 @@
+#	Permutations of "phrase" from "some_completely_empty.file":
+	---	
+*	No permutations found.
